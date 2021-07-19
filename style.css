@@ -192,21 +192,21 @@ body{
 .about span{
     font-weight: 700;
 }
-.socials{
+.so{
     display: flex;
     margin-bottom: 50px;
 }
-.socials-item{
+.so-item{
     width: 60px;
     height: 60px;
     background-color: rgba(200, 205, 208, 1);
     border-right: 1px solid white;
     background-position: center;
 }
-.socials-item:last-child{
+.so-item:last-child{
     border-right: none;
 }
-.socials-item:hover{
+.so-item:hover{
     background-color: rgba(208, 213, 217, 1);
 }
 .fb{
@@ -562,7 +562,7 @@ footer{
     font-size: 14px;
     color: rgba(255, 255, 255, 1);
 }
-.socials-link{
+.so-link{
     display: flex;
 }
 
